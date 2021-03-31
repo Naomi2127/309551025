@@ -11,7 +11,6 @@ import static org.junit.jupiter.api.Assertions.*;
 
 
 
-
 public class PriorityQueueTest {
     public static Stream<Arguments> input() {
         return Stream.of(
