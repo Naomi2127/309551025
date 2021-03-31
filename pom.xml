@@ -12,7 +12,13 @@
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<junit.jupiter.version>5.5.2</junit.jupiter.version>
 	</properties>
-	
+	<repositories>
+	    <repository>
+	      <id>Naomi2127</id>
+	      <url>https://github.com/Naomi2127/309551025.git</url>
+	    </repository>
+	</repositories>
+		
 
 	<dependencies>
 
